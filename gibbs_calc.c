@@ -1039,7 +1039,8 @@ int main( int argc, char *argv[])
 
   // to calc:
   // g liq m = xfe0 gliq fe + xc0 gcliq + xm 0 gliq m + RT ( xfe ln xfe + xm ln xm + xc ln xc ) + Ex Gliq m 
-
+  // see Adrian Publi. Fe-Fe3C
+	
    return 0;
 }
 
